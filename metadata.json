@@ -1,0 +1,6 @@
+{
+  "name": "Hakeem Cafeteria",
+  "description": "Campus food pre-booking & cafeteria management platform for students and admin staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

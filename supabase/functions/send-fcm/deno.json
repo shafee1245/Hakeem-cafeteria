@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "google-auth-library": "npm:google-auth-library@9.6.3",
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2"
+  }
+}

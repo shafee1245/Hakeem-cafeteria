@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257707728164",
+    "project_id": "hakeemcafeteria-71073",
+    "storage_bucket": "hakeemcafeteria-71073.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257707728164:android:2160f1d9656e3ef8ee27b1",
+        "android_client_info": {
+          "package_name": "com.aistudio.hakeemcafeteria.hcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257707728164-2jpugg5qse77bega5ab0kbj29022fecf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.hakeemcafeteria.hcapp",
+            "certificate_hash": "fa6a968f5cad59acef5455bc7d0ee8c1a75fbbb4"
+          }
+        },
+        {
+          "client_id": "257707728164-fo42f1tr9lhrb5mgi0fr7l86nsk90gh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.hakeemcafeteria.hcapp",
+            "certificate_hash": "93adca3320a7368b8458c55e39004f6b4519aa60"
+          }
+        },
+        {
+          "client_id": "257707728164-rvo6sgq4nihmmeqa25n51j5re0ls8r5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvR8NaKir28gC19f5fYTTNyIl8YHOpqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257707728164-19tlsjebiog6q1hu16ns068d43eofl27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
